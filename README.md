@@ -12,3 +12,14 @@ https://habr.com/ru/post/457728/ - весьма подробное описан�
 
 ### How the Go runtime implements maps efficiently (without generics)
 https://dave.cheney.net/2018/05/29/how-the-go-runtime-implements-maps-efficiently-without-generics - более подробное описание того, как устроены мапы
+
+### Strings In Go's Runtime
+https://boakye.yiadom.org/go/strings/ - как реализован тип данных string
+
+### Runes and character encoding
+https://yourbasic.org/golang/rune/ - что такое руны
+
+## Прочее
+
+### Go Traps
+https://go-traps.appspot.com/#watchman - типичные ошибки и граби гоферов
