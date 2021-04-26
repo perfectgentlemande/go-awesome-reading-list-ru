@@ -20,6 +20,9 @@ https://boakye.yiadom.org/go/strings/ - как реализован тип да�
 ### Runes and character encoding
 https://yourbasic.org/golang/rune/ - что такое руны
 
+### unsafe.Pointer and system calls
+https://blog.gopheracademy.com/advent-2017/unsafe-pointer-and-system-calls/ - кое-что об использовании unsafe.Pointer
+
 ## Выделение памяти (пока не сортировал и не описывал)
 
 ### Механизмы выделения памяти в Go
