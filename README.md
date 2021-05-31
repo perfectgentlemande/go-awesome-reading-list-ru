@@ -43,6 +43,11 @@ https://habr.com/ru/post/490570/
 ### Understanding Allocations in Go
 https://medium.com/eureka-engineering/understanding-allocations-in-go-stack-heap-memory-9a2631b5035d
 
+## Конкурентность в Go
+
+### Параллельное программирование в Go
+https://proglib.io/p/parallelnoe-programmirovanie-v-go-2021-05-23 - по большей части обзорная статья с простыми примерами использования горутин, каналов, мьютексов и.т.д. Полезно для тех, кто очень редко сталкивался с многопоточностью и не знает, как правильно пользоваться перечисленными фичами.
+
 ## Прочее
 
 ### Go Traps
