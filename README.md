@@ -48,6 +48,9 @@ https://medium.com/eureka-engineering/understanding-allocations-in-go-stack-heap
 ### Параллельное программирование в Go
 https://proglib.io/p/parallelnoe-programmirovanie-v-go-2021-05-23 - по большей части обзорная статья с простыми примерами использования горутин, каналов, мьютексов и.т.д. Полезно для тех, кто очень редко сталкивался с многопоточностью и не знает, как правильно пользоваться перечисленными фичами.
 
+### Understanding Golang and Goroutines
+https://medium.com/technofunnel/understanding-golang-and-goroutines-72ac3c9a014d - статья на тему конкурентности и параллельности выполнения. Помогает понять разницу между этими понятиями а так же объясняет, почему работа с разными горутинами не гарантирует параллельность выполнения.
+
 ## Прочее
 
 ### Go Traps
