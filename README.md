@@ -54,6 +54,10 @@ https://medium.com/technofunnel/understanding-golang-and-goroutines-72ac3c9a014d
 ### Go concurrency patterns
 https://blog.golang.org/pipelines - статья на тему паттернов конкуретности. Показаны простые примеры, благодаря которым можно понять как правильно пользоваться каналами и горутинами на примере конвейеров.
 
+### Конкурентность в Golang и WorkerPool
+https://proglib.io/p/parallelizm-v-golang-i-workerpool-chast-1-2020-12-24
+https://proglib.io/p/parallelizm-v-golang-i-workerpool-chast-2-2020-12-26 - статьи на тему того, как построить пул обработчиков (он же Worker Pool). Я бы не сказал, что конкретно эти пулы - идеальное решение (в первой статье мне не понравилась обработка ошибок в конце), но для ознакомления подойдет. Но я бы не советовал начинать изучение пулов именно с этих статей.
+
 ## Прочее
 
 ### Go Traps
